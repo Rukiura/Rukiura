@@ -1,11 +1,10 @@
 ## Olá, seja bem-vindo ao meu perfil!
+ - Atualmente estudando 🐍Python e SQL🐍
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rukiura&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukiura&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
- - Atualmente estudando 🐍Python e SQL🐍
-  
+
 <!--
 **Rukiura/Rukiura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
